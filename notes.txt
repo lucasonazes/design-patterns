@@ -1,0 +1,23 @@
+HERANÇA
+
+- Utilizada em classes
+
+-------------------------------------
+
+POLIMORFISMO
+
+- Utilizado em métodos
+
+-------------------------------------
+
+SUBSTITUIÇÃO DE LISKOV
+
+-
+
+-------------------------------------
+
+INTERFACE
+
+- Interface é um contrato que permite que o método seja capaz de processar diferentes tipos de objetos
+
+-------------------------------------
