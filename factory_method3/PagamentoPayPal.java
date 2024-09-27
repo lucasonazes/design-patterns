@@ -1,11 +1,16 @@
-package factory_method2;
+package factory_method3;
 
 public class PagamentoPayPal implements iPagamento {
+    public String email;
+
+    public PagamentoPayPal(String email) {
+        this.email = email;
+    }
     
     @Override
-    public void processarPagamento(double valor, String email) {
-
-        if(email.equals("lucasonazes@gmail.com")) {
+    public void processarPagamento(double valor) {
+        
+        if(this.email.equals("lucasonazes@gmail.com")) {
             System.out.println("Pagamento no PayPal realizado com sucesso!");
             return;
         }
