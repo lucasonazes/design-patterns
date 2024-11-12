@@ -1,3 +1,1 @@
-# Design Patterns
-
-### Projeto para estudar diferentes padrões de projeto utilizando java
+# Projeto para estudar diferentes padrões de projeto utilizando java
